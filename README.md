@@ -42,7 +42,7 @@ There is a `.ipynb` file that runs the necessary code to obtain the final model 
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@adduke.ikr/predicting-excellence-the-hidden-patterns-in-ofsted-ratings-1038ab5d85c0).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
